@@ -126,7 +126,7 @@ function setMainMenu(mainWindow) {
             mainWindow.loadURL(urlportal);
           },
         },
-        {
+        /*{
           label: 'Ingresar url',
           click() {
             showAlert(mainWindow);
@@ -138,7 +138,7 @@ function setMainMenu(mainWindow) {
           click() {
             mainWindow.webContents.openDevTools()
           },
-        },
+        },*/
         {
           label: 'Descargar tendero desktop',
           accelerator: 'F12',
