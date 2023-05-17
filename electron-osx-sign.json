@@ -1,0 +1,6 @@
+{
+    "app": "build/copiler-desktop",
+    "platform": "darwin",
+    "identity": "Developer ID Application: My Company, Inc. (ABC123DEFG)",
+    "icon": "assets/icon.icns"
+  }
